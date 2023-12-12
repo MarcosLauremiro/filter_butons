@@ -23,7 +23,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-nome-de-usuario/lauremiro-portfolio.git
+   git clone https://git@github.com:MarcosLauremiro/filter_butons.git
    ```
 
 2. Navegue até o diretório do projeto:
