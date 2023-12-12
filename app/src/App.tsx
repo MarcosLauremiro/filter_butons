@@ -20,19 +20,19 @@ function App() {
             </p>
           </div>
           <div className="buttons">
-            <a target="blank" className="button" href="">
+            <a target="blank" className="button" href="https://t.me/+5599991598763">
               <FaTelegramPlane />
               Falar Comigo
             </a>
-            <a target="blank" className="button" href="">
+            <a target="blank" className="button" href="https://portifolio-nine-red.vercel.app/">
               <FaSitemap />
               Portifolio
             </a>
-            <a target="blank" className="button" href="">
+            <a target="blank" className="button" href="https://www.linkedin.com/in/marcos-lauremiro-melo-silva/">
               <FaLinkedin />
               Meu linkedIn
             </a>
-            <a target="blank" className="button" href="">
+            <a target="blank" className="button" href="https://github.com/MarcosLauremiro">
               <FaGithub />
               Meu Github
             </a>
